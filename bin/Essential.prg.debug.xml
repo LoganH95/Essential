@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="8" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="9" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="10" pc="268435503" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="11" pc="268435546" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="12" pc="268435589" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="14" pc="268435632" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="15" pc="268435675" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="16" pc="268435718" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="17" pc="268435761" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="20" pc="268435805" symbol="drawSymbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="21" pc="268435809" symbol="drawSymbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="22" pc="268435840" symbol="drawSymbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="23" pc="268435846" symbol="drawSymbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="26" pc="268435863" symbol="drawSymbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="30" pc="268435878" symbol="symbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="31" pc="268435882" symbol="symbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="32" pc="268435889" symbol="symbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="33" pc="268435948" symbol="symbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="34" pc="268435982" symbol="symbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="36" pc="268435995" symbol="symbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="37" pc="268436054" symbol="symbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="38" pc="268436088" symbol="symbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="40" pc="268436101" symbol="symbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="41" pc="268436166" symbol="symbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="42" pc="268436200" symbol="symbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="44" pc="268436213" symbol="symbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="45" pc="268436278" symbol="symbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="46" pc="268436312" symbol="symbols"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="50" pc="268436326" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="51" pc="268436330" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="52" pc="268436337" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="53" pc="268436344" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="54" pc="268436351" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="55" pc="268436410" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="56" pc="268436444" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="57" pc="268436451" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="58" pc="268436458" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="60" pc="268436471" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="61" pc="268436530" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="62" pc="268436561" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="63" pc="268436568" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="65" pc="268436581" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="66" pc="268436646" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="67" pc="268436677" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="69" pc="268436690" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="70" pc="268436755" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="71" pc="268436789" symbol="symbolsInverted"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="75" pc="268436803" symbol="drawSymbol"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="76" pc="268436807" symbol="drawSymbol"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="77" pc="268436818" symbol="drawSymbol"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="79" pc="268436856" symbol="drawSymbol"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="81" pc="268436894" symbol="drawSymbol"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Symbol.mc" lineNum="83" pc="268436932" symbol="drawSymbol"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="10" pc="268436960" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="11" pc="268436964" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="12" pc="268437008" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="13" pc="268437039" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="14" pc="268437039" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="15" pc="268437045" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="16" pc="268437121" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="17" pc="268437174" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="21" pc="268437253" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="22" pc="268437329" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="23" pc="268437382" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="26" pc="268437458" symbol="drawDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="29" pc="268437481" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="30" pc="268437485" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="31" pc="268437551" symbol="drawBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="34" pc="268437574" symbol="drawSteps"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="35" pc="268437578" symbol="drawSteps"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="36" pc="268437637" symbol="drawSteps"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="39" pc="268437660" symbol="drawStepsGoal"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="40" pc="268437664" symbol="drawStepsGoal"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="41" pc="268437754" symbol="drawStepsGoal"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="44" pc="268437777" symbol="drawGoal"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="45" pc="268437781" symbol="drawGoal"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="46" pc="268437840" symbol="drawGoal"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="49" pc="268437863" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="50" pc="268437867" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="51" pc="268437867" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="52" pc="268437904" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="53" pc="268437953" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="56" pc="268438008" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="57" pc="268438057" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="59" pc="268438109" symbol="drawDistance"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="62" pc="268438132" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="63" pc="268438136" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="64" pc="268438136" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="65" pc="268438160" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="67" pc="268438170" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="69" pc="268438177" symbol="drawConnected"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="72" pc="268438200" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="73" pc="268438204" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="74" pc="268438211" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="75" pc="268438241" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="77" pc="268438251" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="78" pc="268438318" symbol="drawMessages"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="81" pc="268438341" symbol="drawCalories"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="82" pc="268438345" symbol="drawCalories"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/StatsDisplay.mc" lineNum="83" pc="268438404" symbol="drawCalories"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="8" pc="268438428" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="9" pc="268438432" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="10" pc="268438463" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="11" pc="268438470" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="13" pc="268438487" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="14" pc="268438502" symbol="getPrimaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="17" pc="268438506" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="18" pc="268438510" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="19" pc="268438541" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="20" pc="268438568" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="22" pc="268438610" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="24" pc="268438626" symbol="checkConflictingColors"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="28" pc="268438630" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="29" pc="268438634" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="30" pc="268438665" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="31" pc="268438672" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="33" pc="268438682" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="34" pc="268438693" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="36" pc="268438709" symbol="getSecondaryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="39" pc="268438713" symbol="batteryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="40" pc="268438717" symbol="batteryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="41" pc="268438780" symbol="batteryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="44" pc="268438826" symbol="batteryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="47" pc="268438842" symbol="batteryColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="51" pc="268438856" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="52" pc="268438860" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="53" pc="268438891" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="54" pc="268438897" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/WatchFaceUI/Color.mc" lineNum="56" pc="268438913" symbol="getBackgroundColor"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="13" pc="268438928" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="14" pc="268438932" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="19" pc="268438943" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="20" pc="268438947" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="21" pc="268438966" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="22" pc="268438985" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="23" pc="268439035" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="24" pc="268439066" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="25" pc="268439085" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="28" pc="268439102" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="29" pc="268439127" symbol="displayTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="33" pc="268439145" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="34" pc="268439149" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="35" pc="268439166" symbol="drawTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="38" pc="268439224" symbol="clockTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="39" pc="268439228" symbol="clockTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="40" pc="268439228" symbol="clockTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="41" pc="268439254" symbol="clockTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="44" pc="268439337" symbol="clockTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="45" pc="268439363" symbol="clockTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="48" pc="268439446" symbol="clockTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="51" pc="268439520" symbol="clockTime"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="54" pc="268439524" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="55" pc="268439528" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="56" pc="268439599" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="57" pc="268439821" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="58" pc="268439859" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="61" pc="268439913" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="65" pc="268439973" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="66" pc="268440011" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="69" pc="268440071" symbol="displaySeconds"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="74" pc="268440129" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="75" pc="268440133" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="76" pc="268440133" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="77" pc="268440163" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="80" pc="268440173" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="82" pc="268440180" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="83" pc="268440342" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="84" pc="268440380" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="87" pc="268440473" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="91" pc="268440524" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="92" pc="268440562" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/TimeDisplay.mc" lineNum="95" pc="268440655" symbol="cycle"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="21" pc="268440704" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="24" pc="268440709" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="25" pc="268440713" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="26" pc="268440732" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="27" pc="268440751" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="28" pc="268440782" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="29" pc="268440813" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="31" pc="268440844" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="32" pc="268440885" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="33" pc="268440899" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="35" pc="268440913" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="36" pc="268440924" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="38" pc="268440945" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="39" pc="268440956" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="42" pc="268440977" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="43" pc="268440982" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="46" pc="268441022" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="47" pc="268441046" symbol="displayInfo"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="50" pc="268441061" symbol="showBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="51" pc="268441065" symbol="showBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="52" pc="268441103" symbol="showBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="54" pc="268441169" symbol="showBattery"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="58" pc="268441233" symbol="showDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="59" pc="268441237" symbol="showDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="60" pc="268441275" symbol="showDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="62" pc="268441341" symbol="showDate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="66" pc="268441405" symbol="bottomCorner"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="67" pc="268441409" symbol="bottomCorner"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="68" pc="268441409" symbol="bottomCorner"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="69" pc="268441414" symbol="bottomCorner"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="70" pc="268441421" symbol="bottomCorner"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="73" pc="268441438" symbol="bottomCorner"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="74" pc="268441454" symbol="bottomCorner"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="76" pc="268441468" symbol="bottomCorner"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="77" pc="268441482" symbol="bottomCorner"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="79" pc="268441540" symbol="bottomCorner"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="81" pc="268441598" symbol="bottomCorner"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="83" pc="268441656" symbol="bottomCorner"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="85" pc="268441714" symbol="bottomCorner"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="89" pc="268441759" symbol="moveBar"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="90" pc="268441763" symbol="moveBar"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="91" pc="268441774" symbol="moveBar"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="92" pc="268441806" symbol="moveBar"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="93" pc="268441817" symbol="moveBar"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="94" pc="268441849" symbol="moveBar"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="95" pc="268441860" symbol="moveBar"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="96" pc="268441892" symbol="moveBar"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="97" pc="268441903" symbol="moveBar"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="98" pc="268441935" symbol="moveBar"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/Layout.mc" lineNum="99" pc="268441946" symbol="moveBar"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="8" pc="268441994" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="9" pc="268441998" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="12" pc="268442017" symbol="onLayout"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="15" pc="268442022" symbol="onShow"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="18" pc="268442027" symbol="onUpdate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="19" pc="268442031" symbol="onUpdate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="20" pc="268442045" symbol="onUpdate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="21" pc="268442065" symbol="onUpdate"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="24" pc="268442086" symbol="resetScreen"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="25" pc="268442090" symbol="resetScreen"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="26" pc="268442136" symbol="resetScreen"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="27" pc="268442148" symbol="resetScreen"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="30" pc="268442190" symbol="onHide"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="33" pc="268442195" symbol="onExitSleep"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="34" pc="268442199" symbol="onExitSleep"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="37" pc="268442216" symbol="onEnterSleep"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="38" pc="268442220" symbol="onEnterSleep"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/Views/EssentialView.mc" lineNum="39" pc="268442233" symbol="onEnterSleep"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/App/EssentialApp.mc" lineNum="5" pc="268442253" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/App/EssentialApp.mc" lineNum="6" pc="268442257" symbol="initialize"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/App/EssentialApp.mc" lineNum="10" pc="268442276" symbol="onStart"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/App/EssentialApp.mc" lineNum="14" pc="268442281" symbol="onStop"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/App/EssentialApp.mc" lineNum="18" pc="268442286" symbol="getInitialView"/>
+<entry filename="/Users/LoganH/Documents/garmin/Essential/source/App/EssentialApp.mc" lineNum="19" pc="268442290" symbol="getInitialView"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="89" method="true" symbol="checkConflictingColors"/>
+<entry id="85" method="true" symbol="symbols"/>
+<entry field="true" id="39" symbol="secondary_color"/>
+<entry field="true" id="27" symbol="message_title"/>
+<entry id="93" method="true" symbol="resetScreen"/>
+<entry id="74" method="true" symbol="displaySeconds"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="14" object="true" symbol="EssentialApp"/>
+<entry field="true" id="8389735" symbol="layout"/>
+<entry id="95" method="true" symbol="drawBattery"/>
+<entry field="true" id="76" symbol="bluetooth"/>
+<entry id="100" method="true" symbol="drawConnected"/>
+<entry id="101" method="true" symbol="drawMessages"/>
+<entry field="true" id="21" symbol="vibration_ID"/>
+<entry field="true" id="23" symbol="alarm_ID"/>
+<entry id="86" method="true" symbol="symbolsInverted"/>
+<entry field="true" id="41" symbol="calories_title"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="94" method="true" symbol="drawDate"/>
+<entry id="73" method="true" symbol="clockTime"/>
+<entry field="true" id="48" symbol="dateString"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="91" method="true" symbol="batteryColor"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="22" symbol="invertedVibration_ID"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry field="true" id="30" symbol="opt_color_15"/>
+<entry field="true" id="32" symbol="opt_color_14"/>
+<entry field="true" id="31" symbol="opt_color_13"/>
+<entry field="true" id="34" symbol="opt_color_12"/>
+<entry field="true" id="33" symbol="opt_color_11"/>
+<entry field="true" id="26" symbol="opt_color_10"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="97" method="true" symbol="drawStepsGoal"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389627" method="true" symbol="getBackgroundColor"/>
+<entry field="true" id="49" symbol="seconds_title"/>
+<entry field="true" id="82" symbol="invertedAlarm"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="35" symbol="AppName"/>
+<entry field="true" id="65" symbol="distance_type"/>
+<entry field="true" id="42" symbol="opt_color_9"/>
+<entry field="true" id="44" symbol="opt_color_8"/>
+<entry field="true" id="55" symbol="opt_color_7"/>
+<entry field="true" id="56" symbol="opt_color_6"/>
+<entry field="true" id="79" symbol="notifications"/>
+<entry field="true" id="52" symbol="opt_color_5"/>
+<entry field="true" id="53" symbol="opt_color_4"/>
+<entry field="true" id="58" symbol="opt_color_3"/>
+<entry field="true" id="59" symbol="opt_color_2"/>
+<entry field="true" id="57" symbol="opt_color_1"/>
+<entry id="71" method="true" symbol="displayTime"/>
+<entry field="true" id="37" symbol="stepsGoal_title"/>
+<entry field="true" id="45" symbol="alarm_title"/>
+<entry field="true" id="47" symbol="bluetooth_title"/>
+<entry field="true" id="54" symbol="moveBar_title"/>
+<entry id="69" method="true" symbol="bottomCorner"/>
+<entry field="true" id="50" symbol="goal_title"/>
+<entry field="true" id="24" symbol="invertedAlarm_ID"/>
+<entry field="true" id="83" symbol="invertedVibration"/>
+<entry id="84" method="true" symbol="drawSymbols"/>
+<entry field="true" id="25" symbol="LauncherIcon"/>
+<entry id="8389722" object="true" symbol="Layout"/>
+<entry id="72" method="true" symbol="drawTime"/>
+<entry id="75" method="true" symbol="cycle"/>
+<entry field="true" id="64" symbol="stepsGoal_type"/>
+<entry field="true" id="38" symbol="off_title"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="102" method="true" symbol="drawCalories"/>
+<entry field="true" id="46" symbol="title_color"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="96" method="true" symbol="drawSteps"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="66" method="true" symbol="displayInfo"/>
+<entry id="67" method="true" symbol="showBattery"/>
+<entry field="true" id="78" symbol="alarm"/>
+<entry field="true" id="28" symbol="right_title"/>
+<entry field="true" id="8389344" symbol="seconds"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="18" symbol="invertedBluetooth_ID"/>
+<entry id="99" method="true" symbol="drawDistance"/>
+<entry id="68" method="true" symbol="showDate"/>
+<entry field="true" id="20" symbol="invertedNotifications_ID"/>
+<entry field="true" id="51" symbol="vibration_title"/>
+<entry id="10" object="true" symbol="StatsDisplay"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="88" method="true" symbol="getPrimaryColor"/>
+<entry field="true" id="80" symbol="invertedBluetooth"/>
+<entry field="true" id="36" symbol="left_title"/>
+<entry field="true" id="92" symbol="time"/>
+<entry field="true" id="62" symbol="calories_type"/>
+<entry id="8388765" object="true" symbol="Symbol"/>
+<entry id="16" module="true" symbol="Layouts"/>
+<entry field="true" id="19" symbol="notifications_ID"/>
+<entry field="true" id="17" symbol="bluetooth_ID"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="11" object="true" symbol="Color"/>
+<entry id="13" object="true" symbol="EssentialView"/>
+<entry field="true" id="77" symbol="vibration"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="61" symbol="steps_type"/>
+<entry id="98" method="true" symbol="drawGoal"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry id="90" method="true" symbol="getSecondaryColor"/>
+<entry id="15" module="true" symbol="Menus"/>
+<entry field="true" id="40" symbol="Distance"/>
+<entry field="true" id="81" symbol="invertedNotifications"/>
+<entry field="true" id="29" symbol="invertString"/>
+<entry id="87" method="true" symbol="drawSymbol"/>
+<entry field="true" id="63" symbol="goal_type"/>
+<entry id="12" object="true" symbol="TimeDisplay"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="43" symbol="steps_title"/>
+<entry id="70" method="true" symbol="moveBar"/>
+<entry field="true" id="60" symbol="stats"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435877" name="invert" stackId="2" startPc="268435809"/>
+<entry endPc="268435878" name="dc" stackId="1" startPc="268435805"/>
+<entry endPc="268436325" name="count" stackId="2" startPc="268435882"/>
+<entry endPc="268436326" name="dc" stackId="1" startPc="268435878"/>
+<entry endPc="268436802" name="alarmY" stackId="3" startPc="268436330"/>
+<entry endPc="268436802" name="vibrateX" stackId="2" startPc="268436330"/>
+<entry endPc="268436802" name="count" stackId="4" startPc="268436330"/>
+<entry endPc="268436803" name="dc" stackId="1" startPc="268436326"/>
+<entry endPc="268436960" name="xOffSet" stackId="4" startPc="268436803"/>
+<entry endPc="268436960" name="dc" stackId="1" startPc="268436803"/>
+<entry endPc="268436960" name="number" stackId="3" startPc="268436803"/>
+<entry endPc="268436960" name="symbol" stackId="2" startPc="268436803"/>
+<entry endPc="268436960" name="y" stackId="5" startPc="268436803"/>
+<entry endPc="268437480" name="dateFormat" stackId="7" startPc="268436964"/>
+<entry endPc="268437480" name="date" stackId="6" startPc="268436964"/>
+<entry endPc="268437480" name="dateString" stackId="8" startPc="268436964"/>
+<entry endPc="268437481" name="x" stackId="2" startPc="268436960"/>
+<entry endPc="268437481" name="dc" stackId="1" startPc="268436960"/>
+<entry endPc="268437481" name="font" stackId="4" startPc="268436960"/>
+<entry endPc="268437481" name="justification" stackId="5" startPc="268436960"/>
+<entry endPc="268437481" name="y" stackId="3" startPc="268436960"/>
+<entry endPc="268437573" name="batteryString" stackId="6" startPc="268437485"/>
+<entry endPc="268437574" name="x" stackId="2" startPc="268437481"/>
+<entry endPc="268437574" name="dc" stackId="1" startPc="268437481"/>
+<entry endPc="268437574" name="font" stackId="4" startPc="268437481"/>
+<entry endPc="268437574" name="justification" stackId="5" startPc="268437481"/>
+<entry endPc="268437574" name="y" stackId="3" startPc="268437481"/>
+<entry endPc="268437659" name="stepString" stackId="6" startPc="268437578"/>
+<entry endPc="268437660" name="x" stackId="2" startPc="268437574"/>
+<entry endPc="268437660" name="dc" stackId="1" startPc="268437574"/>
+<entry endPc="268437660" name="font" stackId="4" startPc="268437574"/>
+<entry endPc="268437660" name="justification" stackId="5" startPc="268437574"/>
+<entry endPc="268437660" name="y" stackId="3" startPc="268437574"/>
+<entry endPc="268437776" name="stepString" stackId="6" startPc="268437664"/>
+<entry endPc="268437777" name="x" stackId="2" startPc="268437660"/>
+<entry endPc="268437777" name="dc" stackId="1" startPc="268437660"/>
+<entry endPc="268437777" name="font" stackId="4" startPc="268437660"/>
+<entry endPc="268437777" name="justification" stackId="5" startPc="268437660"/>
+<entry endPc="268437777" name="y" stackId="3" startPc="268437660"/>
+<entry endPc="268437862" name="goalString" stackId="6" startPc="268437781"/>
+<entry endPc="268437863" name="x" stackId="2" startPc="268437777"/>
+<entry endPc="268437863" name="dc" stackId="1" startPc="268437777"/>
+<entry endPc="268437863" name="font" stackId="4" startPc="268437777"/>
+<entry endPc="268437863" name="justification" stackId="5" startPc="268437777"/>
+<entry endPc="268437863" name="y" stackId="3" startPc="268437777"/>
+<entry endPc="268438005" name="distance" stackId="7" startPc="268437904"/>
+<entry endPc="268438109" name="distance" stackId="8" startPc="268438008"/>
+<entry endPc="268438131" name="distanceString" stackId="6" startPc="268437867"/>
+<entry endPc="268438132" name="x" stackId="2" startPc="268437863"/>
+<entry endPc="268438132" name="dc" stackId="1" startPc="268437863"/>
+<entry endPc="268438132" name="font" stackId="4" startPc="268437863"/>
+<entry endPc="268438132" name="justification" stackId="5" startPc="268437863"/>
+<entry endPc="268438132" name="y" stackId="3" startPc="268437863"/>
+<entry endPc="268438199" name="connection" stackId="6" startPc="268438136"/>
+<entry endPc="268438200" name="x" stackId="2" startPc="268438132"/>
+<entry endPc="268438200" name="dc" stackId="1" startPc="268438132"/>
+<entry endPc="268438200" name="font" stackId="4" startPc="268438132"/>
+<entry endPc="268438200" name="justification" stackId="5" startPc="268438132"/>
+<entry endPc="268438200" name="y" stackId="3" startPc="268438132"/>
+<entry endPc="268438340" name="messageString" stackId="7" startPc="268438204"/>
+<entry endPc="268438340" name="message" stackId="6" startPc="268438204"/>
+<entry endPc="268438341" name="x" stackId="2" startPc="268438200"/>
+<entry endPc="268438341" name="dc" stackId="1" startPc="268438200"/>
+<entry endPc="268438341" name="font" stackId="4" startPc="268438200"/>
+<entry endPc="268438341" name="justification" stackId="5" startPc="268438200"/>
+<entry endPc="268438341" name="y" stackId="3" startPc="268438200"/>
+<entry endPc="268438426" name="calorieString" stackId="6" startPc="268438345"/>
+<entry endPc="268438427" name="x" stackId="2" startPc="268438341"/>
+<entry endPc="268438427" name="dc" stackId="1" startPc="268438341"/>
+<entry endPc="268438427" name="font" stackId="4" startPc="268438341"/>
+<entry endPc="268438427" name="justification" stackId="5" startPc="268438341"/>
+<entry endPc="268438427" name="y" stackId="3" startPc="268438341"/>
+<entry endPc="268438505" name="primaryColor" stackId="1" startPc="268438432"/>
+<entry endPc="268438629" name="invert" stackId="2" startPc="268438510"/>
+<entry endPc="268438630" name="color" stackId="1" startPc="268438506"/>
+<entry endPc="268438712" name="secondaryColor" stackId="1" startPc="268438634"/>
+<entry endPc="268438926" name="invert" stackId="1" startPc="268438860"/>
+<entry endPc="268439144" name="secondsSwitch" stackId="2" startPc="268438947"/>
+<entry endPc="268439145" name="dc" stackId="1" startPc="268438943"/>
+<entry endPc="268439223" name="timeString" stackId="4" startPc="268439149"/>
+<entry endPc="268439224" name="dc" stackId="1" startPc="268439145"/>
+<entry endPc="268439224" name="time" stackId="3" startPc="268439145"/>
+<entry endPc="268439224" name="mode" stackId="2" startPc="268439145"/>
+<entry endPc="268439523" name="timeString" stackId="3" startPc="268439228"/>
+<entry endPc="268439524" name="time" stackId="2" startPc="268439224"/>
+<entry endPc="268439524" name="mode" stackId="1" startPc="268439224"/>
+<entry endPc="268440128" name="secString" stackId="2" startPc="268439528"/>
+<entry endPc="268440129" name="dc" stackId="1" startPc="268439524"/>
+<entry endPc="268440703" name="cycle" stackId="2" startPc="268440133"/>
+<entry endPc="268440704" name="dc" stackId="1" startPc="268440129"/>
+<entry endPc="268441060" name="leftSwitch" stackId="3" startPc="268440713"/>
+<entry endPc="268441060" name="rightSwitch" stackId="4" startPc="268440713"/>
+<entry endPc="268441060" name="moveBarSwitch" stackId="2" startPc="268440713"/>
+<entry endPc="268441060" name="symbol" stackId="5" startPc="268440713"/>
+<entry endPc="268441061" name="dc" stackId="1" startPc="268440709"/>
+<entry endPc="268441233" name="dc" stackId="1" startPc="268441061"/>
+<entry endPc="268441405" name="dc" stackId="1" startPc="268441233"/>
+<entry endPc="268441758" name="x" stackId="5" startPc="268441409"/>
+<entry endPc="268441758" name="justification" stackId="4" startPc="268441409"/>
+<entry endPc="268441759" name="dc" stackId="1" startPc="268441405"/>
+<entry endPc="268441759" name="cornerSwitch" stackId="3" startPc="268441405"/>
+<entry endPc="268441759" name="left" stackId="2" startPc="268441405"/>
+<entry endPc="268441994" name="dc" stackId="1" startPc="268441759"/>
+<entry endPc="268441994" name="level" stackId="2" startPc="268441759"/>
+<entry endPc="268442022" name="dc" stackId="1" startPc="268442017"/>
+<entry endPc="268442086" name="dc" stackId="1" startPc="268442027"/>
+<entry endPc="268442190" name="dc" stackId="1" startPc="268442086"/>
+<entry endPc="268442281" name="state" stackId="1" startPc="268442276"/>
+<entry endPc="268442286" name="state" stackId="1" startPc="268442281"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="Symbol">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawSymbols" parent="Symbol">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="symbols" parent="Symbol">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="symbolsInverted" parent="Symbol">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawSymbol" parent="Symbol">
+<param id="dc"/>
+<param id="symbol"/>
+<param id="number"/>
+<param id="xOffSet"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawDate" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBattery" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawSteps" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawStepsGoal" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawGoal" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawDistance" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawConnected" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawMessages" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawCalories" parent="StatsDisplay">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="justification"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getPrimaryColor" parent="Color">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="checkConflictingColors" parent="Color">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getSecondaryColor" parent="Color">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="batteryColor" parent="Color">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBackgroundColor" parent="Color">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="TimeDisplay">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="displayTime" parent="TimeDisplay">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="drawTime" parent="TimeDisplay">
+<param id="dc"/>
+<param id="mode"/>
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="clockTime" parent="TimeDisplay">
+<param id="mode"/>
+<param id="time"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="displaySeconds" parent="TimeDisplay">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="cycle" parent="TimeDisplay">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Layout">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="displayInfo" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="showBattery" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="showDate" parent="Layout">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" name="bottomCorner" parent="Layout">
+<param id="dc"/>
+<param id="left"/>
+<param id="cornerSwitch"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="moveBar" parent="Layout">
+<param id="dc"/>
+<param id="level"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="EssentialView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="EssentialView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="EssentialView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="EssentialView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="resetScreen" parent="EssentialView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="EssentialView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="EssentialView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="EssentialView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="EssentialApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="EssentialApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="EssentialApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="EssentialApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="95" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="254" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="333" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="436" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="467" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="498" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="529" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="560" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="863" parentId="globals" symbolId="Layout" type="class"/>
+<dataEntry offset="1014" parentId="globals" symbolId="TimeDisplay" type="class"/>
+<dataEntry offset="1125" parentId="globals" symbolId="EssentialApp" type="class"/>
+<dataEntry offset="1196" parentId="globals" symbolId="Symbol" type="class"/>
+<dataEntry offset="1339" parentId="globals" symbolId="Color" type="class"/>
+<dataEntry offset="1457" parentId="globals" symbolId="EssentialView" type="class"/>
+<dataEntry offset="1576" parentId="globals" symbolId="StatsDisplay" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

@@ -1,0 +1,160 @@
+<resources>
+
+    <properties>
+   	 	<property id ="color_primary" type="number">0xFFFFFF</property>
+        <property id="color_secondary" type="number">1</property>
+        <property id ="id_invert" type="boolean">false</property>
+        
+        <property id="move_prop" type="boolean">true</property>
+        
+        <property id="bluetooth_prop" type="boolean">true</property>
+        <property id="vibration_prop" type="boolean">true</property>
+        <property id="alarm_prop" type="boolean">true</property>
+        <property id="notification_prop" type="boolean">true</property>
+        
+        <property id="seconds_prop" type="boolean">true</property>
+        
+        <property id="left_prop" type="number">4</property>
+        <property id="right_prop" type="number">2</property>
+        
+        <property id ="dateFormat" type="boolean">false</property>
+    </properties>
+
+    <strings>
+       <string id ="title_color">Primary Color</string>
+       <string id="secondary_color">Secondary Color</string>
+       <string id = "invertString">Invert Colors</string>
+       
+       <string id="opt_color_1">Blue</string>
+       <string id="opt_color_2">White</string>
+       <string id="opt_color_3">Green</string>
+       <string id="opt_color_4">Dark Green</string>
+       <string id="opt_color_5">Red</string>
+       <string id="opt_color_6">Dark Red</string>
+       <string id="opt_color_7">Yellow</string>
+       <string id="opt_color_8">Dark Blue</string>
+       <string id="opt_color_9">Orange</string>
+       <string id="opt_color_10">Pink</string>
+       <string id="opt_color_11">Purple</string>
+       <string id="opt_color_12">Gray</string>
+       <string id="opt_color_13">Dark Gray</string>
+       <string id="opt_color_14">Default</string>
+       <string id="opt_color_15">Black</string>
+       
+       <string id="moveBar_title">Move Bar</string>
+       
+       <string id="bluetooth_title">Bluetooth Icon</string>
+       <string id="vibration_title">Vibration Icon</string>
+       <string id="alarm_title">Alarm Icon</string>
+       <string id="message_title">Notification Icon</string>
+       
+       <string id="seconds_title">Seconds</string>
+       
+       <string id="left_title">Bottom Left Corner</string>
+       <string id="right_title">Bottom Right Corner</string>
+       
+       <string id="calories_title">Calories</string>
+       <string id="goal_title">Steps Goal</string>
+       <string id="steps_title">Steps</string>
+       <string id="stepsGoal_title">Steps/Goal</string>
+       <string id="Distance">Distance</string>
+       <string id="off_title">Off</string>
+      
+       <string id = "dateString">European Date Format</string>
+    </strings>
+
+    <settings>
+   		 <setting propertyKey="@Properties.color_primary" title="@Strings.title_color">
+            <settingConfig type="list">
+            	<listEntry value="0xFFFFFF">@Strings.opt_color_2</listEntry>
+           		<listEntry value="0x00FF00">@Strings.opt_color_3</listEntry>
+           		<listEntry value="0x00AA00">@Strings.opt_color_4</listEntry>
+           		<listEntry value="0xFF0000">@Strings.opt_color_5</listEntry>
+           		<listEntry value="0xAA0000">@Strings.opt_color_6</listEntry>
+            	<listEntry value="0xFFAA00">@Strings.opt_color_7</listEntry>
+            	<listEntry value="0x00AAFF">@Strings.opt_color_1</listEntry>	
+           		<listEntry value="0x0000FF">@Strings.opt_color_8</listEntry>
+           		<listEntry value="0xFF5500">@Strings.opt_color_9</listEntry>
+           		<listEntry value="0xFF00FF">@Strings.opt_color_10</listEntry>
+           		<listEntry value="0xAA00FF">@Strings.opt_color_11</listEntry>
+           		<listEntry value="0xAAAAAA">@Strings.opt_color_12</listEntry>
+           		<listEntry value="0x555555">@Strings.opt_color_13</listEntry>
+           		<listEntry value="0x000000">@Strings.opt_color_15</listEntry>
+           	</settingConfig>
+        </setting>
+        
+        <setting propertyKey="@Properties.color_secondary" title="@Strings.secondary_color">
+            <settingConfig type="list">
+            	<listEntry value="1">@Strings.opt_color_14</listEntry>
+            	<listEntry value="0xFFFFFF">@Strings.opt_color_2</listEntry>
+           		<listEntry value="0x00FF00">@Strings.opt_color_3</listEntry>
+           		<listEntry value="0x00AA00">@Strings.opt_color_4</listEntry>
+           		<listEntry value="0xFF0000">@Strings.opt_color_5</listEntry>
+           		<listEntry value="0xAA0000">@Strings.opt_color_6</listEntry>
+            	<listEntry value="0xFFAA00">@Strings.opt_color_7</listEntry>
+            	<listEntry value="0x00AAFF">@Strings.opt_color_1</listEntry>	
+           		<listEntry value="0x0000FF">@Strings.opt_color_8</listEntry>
+           		<listEntry value="0xFF5500">@Strings.opt_color_9</listEntry>
+           		<listEntry value="0xFF00FF">@Strings.opt_color_10</listEntry>
+           		<listEntry value="0xAA00FF">@Strings.opt_color_11</listEntry>
+           		<listEntry value="0xAAAAAA">@Strings.opt_color_12</listEntry>
+           		<listEntry value="0x555555">@Strings.opt_color_13</listEntry>
+           		<listEntry value="0x000000">@Strings.opt_color_15</listEntry>
+            </settingConfig>
+        </setting>
+        
+        <setting propertyKey="@Properties.id_invert" title="@Strings.invertString">
+            <settingConfig type="boolean" />
+        </setting>
+        
+        <setting propertyKey="@Properties.move_prop" title="@Strings.moveBar_title">
+            <settingConfig type="boolean" />
+        </setting>
+        
+        <setting propertyKey="@Properties.bluetooth_prop" title="@Strings.bluetooth_title">
+            <settingConfig type="boolean" />
+        </setting>
+        
+        <setting propertyKey="@Properties.vibration_prop" title="@Strings.vibration_title">
+            <settingConfig type="boolean" />
+        </setting>
+        
+        <setting propertyKey="@Properties.alarm_prop" title="@Strings.alarm_title">
+            <settingConfig type="boolean" />
+        </setting>
+        
+         <setting propertyKey="@Properties.notification_prop" title="@Strings.message_title">
+            <settingConfig type="boolean" />
+        </setting>
+        
+         <setting propertyKey="@Properties.seconds_prop" title="@Strings.seconds_title">
+            <settingConfig type="boolean" />
+        </setting>
+        
+        <setting propertyKey="@Properties.left_prop" title="@Strings.left_title">
+            <settingConfig type="list">
+            	<listEntry value="0">@Strings.steps_title</listEntry>
+            	<listEntry value="1">@Strings.calories_title</listEntry>
+           		<listEntry value="2">@Strings.goal_title</listEntry>
+           		<listEntry value="3">@Strings.stepsGoal_title</listEntry>
+           		<listEntry value="4">@Strings.Distance</listEntry>
+           		<listEntry value="99">@Strings.off_title</listEntry>
+            </settingConfig>
+        </setting>
+        
+        <setting propertyKey="@Properties.right_prop" title="@Strings.right_title">
+            <settingConfig type="list">
+            	<listEntry value="0">@Strings.steps_title</listEntry>
+            	<listEntry value="1">@Strings.calories_title</listEntry>
+           		<listEntry value="2">@Strings.goal_title</listEntry>
+           		<listEntry value="3">@Strings.stepsGoal_title</listEntry>
+           		<listEntry value="4">@Strings.Distance</listEntry>
+           		<listEntry value="99">@Strings.off_title</listEntry>
+            </settingConfig>
+        </setting>
+        
+        <setting propertyKey="@Properties.dateFormat" title="@Strings.dateString">
+            <settingConfig type="boolean" />
+        </setting>
+	</settings>
+</resources>
