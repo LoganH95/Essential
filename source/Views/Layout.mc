@@ -1,14 +1,9 @@
 using Toybox.Graphics as Gfx;
 using Toybox.System as Sys;
-using Toybox.Lang as Lang;
-using Toybox.Time as Time;
-using Toybox.Time.Gregorian as Calendar;
 using Toybox.Application as App;
 
-
 class Layout {
-	hidden var width, height; 
-	hidden var stats = new StatsDisplay(); 
+	hidden var width, height;
 	
 	enum { 
 		steps_type,
@@ -49,17 +44,17 @@ class Layout {
     
     hidden function showBattery(dc) {
 		if (Sys.getDeviceSettings().partNumber.equals("006-B1765-00")) {
-			stats.drawBattery(dc, width - 1, 0, Gfx.FONT_MEDIUM, Gfx.TEXT_JUSTIFY_RIGHT);
+			StatsDisplay.drawBattery(dc, width - 1, 0, Gfx.FONT_MEDIUM, Gfx.TEXT_JUSTIFY_RIGHT);
  		} else {
- 			stats.drawBattery(dc, width - 1, -3, Gfx.FONT_MEDIUM, Gfx.TEXT_JUSTIFY_RIGHT);
+ 			StatsDisplay.drawBattery(dc, width - 1, -3, Gfx.FONT_MEDIUM, Gfx.TEXT_JUSTIFY_RIGHT);
 		}
     }
     
     hidden function showDate(dc) {
     	if (Sys.getDeviceSettings().partNumber.equals("006-B1765-00")) {
-    		stats.drawDate(dc, width/2, 0, Gfx.FONT_MEDIUM, Gfx.TEXT_JUSTIFY_CENTER);
+    		StatsDisplay.drawDate(dc, width/2, 0, Gfx.FONT_MEDIUM, Gfx.TEXT_JUSTIFY_CENTER);
  		} else {
- 			stats.drawDate(dc, width/2, -3, Gfx.FONT_MEDIUM, Gfx.TEXT_JUSTIFY_CENTER);
+ 			StatsDisplay.drawDate(dc, width/2, -3, Gfx.FONT_MEDIUM, Gfx.TEXT_JUSTIFY_CENTER);
 		}
     }
     
@@ -74,19 +69,19 @@ class Layout {
 			justification = Gfx.TEXT_JUSTIFY_RIGHT; 
 		}
     	if (cornerSwitch == steps_type) {
-    		stats.drawSteps(dc, x, 125, Gfx.FONT_MEDIUM, justification);
+    		StatsDisplay.drawSteps(dc, x, 125, Gfx.FONT_MEDIUM, justification);
 		} else if (cornerSwitch == calories_type) {
-			stats.drawCalories(dc, x, 125, Gfx.FONT_MEDIUM, justification);
+			StatsDisplay.drawCalories(dc, x, 125, Gfx.FONT_MEDIUM, justification);
 		} else if (cornerSwitch == goal_type) {
-			stats.drawGoal(dc, x, 125, Gfx.FONT_MEDIUM, justification);
+			StatsDisplay.drawGoal(dc, x, 125, Gfx.FONT_MEDIUM, justification);
 		} else if (cornerSwitch == stepsGoal_type) {
-			stats.drawStepsGoal(dc, x, 125, Gfx.FONT_MEDIUM, justification);
+			StatsDisplay.drawStepsGoal(dc, x, 125, Gfx.FONT_MEDIUM, justification);
 		} else if (cornerSwitch == distance_type) {
-			stats.drawDistance(dc, x, 125, Gfx.FONT_MEDIUM, justification);
+			StatsDisplay.drawDistance(dc, x, 125, Gfx.FONT_MEDIUM, justification);
 		}
     }
     
-    function moveBar(dc,level) {
+    hidden function moveBar(dc,level) {
 		if (level >= 1) {
 			dc.fillRectangle(0, 46, 8, 8);
 			if (level >= 2) {

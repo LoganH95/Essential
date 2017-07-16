@@ -1,9 +1,7 @@
 using Toybox.Graphics as Gfx;
 using Toybox.System as Sys;
 using Toybox.Lang as Lang;
-using Toybox.Time.Gregorian as Calendar;
 using Toybox.Application as App;
-
 
 class TimeDisplay {
 	var seconds; 
@@ -13,7 +11,6 @@ class TimeDisplay {
 	function initialize() {
 		seconds = false; 
     }
-	
 
 	//Puts the time on the screen as text
     function displayTime(dc) {

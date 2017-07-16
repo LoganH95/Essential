@@ -2,7 +2,6 @@ using Toybox.Graphics as Gfx;
 using Toybox.System as Sys;
 using Toybox.Application as App;
 
-
 class Color {
     
     static function getPrimaryColor() {
@@ -14,7 +13,7 @@ class Color {
     	return primaryColor; 
     }
     
-    static function checkConflictingColors(color) {
+    hidden static function checkConflictingColors(color) {
     	var invert = App.getApp().getProperty("id_invert");
     	if (!invert && color == Gfx.COLOR_BLACK) {
     		return Gfx.COLOR_WHITE; 
