@@ -3,14 +3,11 @@ using Toybox.System as Sys;
 using Toybox.Application as App;
 
 class Color {
+	const BATTERY_COLOR = 1;
     
     static function getPrimaryColor() {
     	var primaryColor = App.getApp().getProperty("color_primary");
-    	if (primaryColor == null) {
-			primaryColor = Gfx.COLOR_WHITE; 
-		}
-		primaryColor = checkConflictingColors(primaryColor); 
-    	return primaryColor; 
+    	return primaryColor ? checkConflictingColors(primaryColor) : checkConflictingColors(Gfx.COLOR_WHITE);
     }
     
     hidden static function checkConflictingColors(color) {
@@ -26,32 +23,28 @@ class Color {
     
     static function getSecondaryColor() {
     	var secondaryColor = App.getApp().getProperty("color_secondary");
+    	
     	if (secondaryColor == null) {
-			secondaryColor = 1;  
+			secondaryColor = BATTERY_COLOR;  
 		}
-		if (secondaryColor == 1) {
+		if (secondaryColor == BATTERY_COLOR) {
 			secondaryColor = batteryColor(); 
 		}
-    	return secondaryColor; 
+    	return checkConflictingColors(secondaryColor); 
     }
     
-    static function batteryColor() {
-    	if (Sys.getSystemStats().battery <= 67 && Sys.getSystemStats().battery > 33) {
+    hidden static function batteryColor() {
+    	var battery = Sys.getSystemStats().battery;
+    	if (battery <= 67 && battery > 33) {
     		return Gfx.COLOR_YELLOW;
-    	}
-		else if (Sys.getSystemStats().battery <= 34) {
+    	} else if (battery <= 34) {
 			return Gfx.COLOR_RED;
-		}
-		else {
+		} else {
 			return Gfx.COLOR_GREEN;
 		}
     }
     
     static function getBackgroundColor() {
-    	var invert = App.getApp().getProperty("id_invert");
-    	if (!invert) {
-			return Gfx.COLOR_BLACK;
-		}
-    	return Gfx.COLOR_WHITE; 
+    	return App.getApp().getProperty("id_invert") ? Gfx.COLOR_WHITE : Gfx.COLOR_BLACK;
     }
 }

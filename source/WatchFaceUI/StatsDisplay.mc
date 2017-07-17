@@ -17,8 +17,7 @@ class StatsDisplay {
 		  	if(date.day_of_week.equals("Thurs") || date.day_of_week.equals("Thur")){
 				dateString = Lang.format("$1$ $2$ $3$" , ["Thu", date.month, date.day]);
 			}
-		}
-		else {
+		} else {
 			dateString = Lang.format("$1$ $2$ $3$" , [date.day_of_week, date.day, date.month]);
 		  	if (date.day_of_week.equals("Thurs") || date.day_of_week.equals("Thur")){
 				dateString = Lang.format("$1$ $2$ $3$" , ["Thu", date.day, date.month]);
